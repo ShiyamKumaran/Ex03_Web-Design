@@ -89,7 +89,9 @@
 
 
 ## OUTPUT
-![Uploading Screenshot 2023-05-19 152043.jpg…]()
+
+![Screenshot 2023-05-19 152043](https://github.com/ShiyamKumaran/Ex03_Web-Design/assets/127816458/9447b19a-7ed5-47ee-aa3d-8d48d0914fea)
+
 
 
 
