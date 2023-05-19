@@ -24,7 +24,10 @@
 ### STEP-7
   Open the file in a browser and verify the output.
   
-## CODE<!DOCTYPE html>
+## CODE
+
+```
+<!DOCTYPE html>
 <html>
 <head>
     <title>Slot Time Table</title>
